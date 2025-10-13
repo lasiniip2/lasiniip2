@@ -1,6 +1,6 @@
 <h1 align="center">Hi!, I'm Lasini Pallewaththa</h1>
 University undergraduate passionate about building scalable web applications. Currently learning full stack development. Open to collaborations and learning new technologies! 
-<br/>📧 Get in touch: lasinipallewaththa.official@gmail.com
+<br/>📧 Get in touch: lasinipallewaththa7@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lasini pallewaththa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lasini pallewaththa" height="30" width="40" /></a>
